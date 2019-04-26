@@ -21,7 +21,7 @@ Detailed description
 Among them, the items you need to fill in are `Name`, `Brief`, `Detailed description`, `Share code`.
 
 - **Name** - Name for this mode, it is best to let others have an intuitive understanding of this mode
-- ** Brief** - Try to briefly describe the core gameplay of this mode
+- **Brief** - Try to briefly describe the core gameplay of this mode
 - **Detailed description** - Detailed description of the gameplay, victory conditions, etc.
 - **Share code** - Script code generated using the share function
 
