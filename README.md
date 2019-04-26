@@ -6,7 +6,9 @@ It's a collection of **Awesome** overwatch custom mode script.
 
 [contribution](contribution.md)
 
-## List of script
+## List of script(Sample)
 - [Lava Death Fight(It's a sample entry)](script/lavadeathfight.md) - Anyone who touched ground will get suffer continuous damage
+- [这条需要翻译(示例)]() - 这个条目需要翻译 (Sample)
 - [name of mode B]() - it's the brife text of mode B
 
+## List of script
