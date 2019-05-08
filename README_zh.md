@@ -2,6 +2,8 @@
 [English](README.md)
 
 # **炒鸡棒的**守望先锋地图工坊
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 这是一个收集**炒鸡棒的**守望先锋地图工坊模式脚本的项目。
 
 [贡献代码](contribution_zh.md)
